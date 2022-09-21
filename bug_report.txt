@@ -1,0 +1,13 @@
+Example of bug-report:
+1) Bug Name: Application crashes upon clicking the SAVE button while creating a new user,
+2) Bug ID: (It will be automatically created by the BUG Tracking tool once you save this bug),
+3) Area Path: USERS menu -> New Users,
+4) Build Number: Version Number 5.0.1,
+5) Severity: HIGH (High/Medium/Low) or 1",
+6) Priority: HIGH (High/Medium/Low) or 1,
+7) Assigned to: Developer-X,
+8) Reported By: Your Name,
+9) Reported On: Date,
+10) Reason: Defect,
+11) Status: New/Open/Active(Depends on the Tool you are using),
+12) Environment: Windows 2003/SQL Server 2005".

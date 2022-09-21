@@ -1,0 +1,4 @@
+Preferences:
+1. Favorite TV show: "Game of Thrones";
+2. Favorite genre of music: Rock, Hip-Hop;
+3. Favorite car: "Volvo".

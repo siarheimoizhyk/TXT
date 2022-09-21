@@ -1,0 +1,6 @@
+Person:
+1. name: Siarhei
+2. age: 28
+3. pets: 1
+4. salary: 1000
+
